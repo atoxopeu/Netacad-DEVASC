@@ -1,0 +1,12 @@
+2021-04-28
+
+STARTING IOS CHECK
+hostname CSR101
+Current IOS Version: 16.9.101
+Upgrade ios version to: 16.9b
+
+hostname CSR101
+Current IOS Version: 16.9.101
+Upgrade ios version to: 16.9b
+
+ENDING IOS CHECK
